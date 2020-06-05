@@ -1,3 +1,3 @@
 # example
 Github course example
-things to know
+important things to know
